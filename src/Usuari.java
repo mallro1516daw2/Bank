@@ -1,3 +1,7 @@
+/**
+ * 
+ * @author Alfred Ferrer, Bernat Montoro, Marc LLobera.
+ */
 public abstract class Usuari
     {
     protected String nom;
@@ -6,5 +10,4 @@ public abstract class Usuari
     protected String DNI;
     protected int nUsuari;
     protected int contrasenya;
-    
     }

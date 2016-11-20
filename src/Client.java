@@ -57,7 +57,7 @@ public class Client extends Usuari implements OperacionsClient
         }
     
     //ATRIBUTS SUPER CLASE USUARI//
-    /**
+    /** 
      * 
      * @param nom 
      */
